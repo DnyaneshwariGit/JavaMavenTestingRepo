@@ -18,7 +18,9 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///F:/ReleaseArtifacts/</url>
+         <!--url>file:///F:/ReleaseArtifacts/</url-->
+         <url>/home/ec2-user/testcopy</url>
+
        </repository>
    </distributionManagement>
 
